@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Import" />
+        <item
+            android:id="@+id/nav_payment"
+            android:icon="@drawable/hand"
+            android:title="Payment" />
+        <item
+            android:id="@+id/search_engineer"
+            android:icon="@drawable/worker"
+            android:title="Search Engineer" />
+        <item
+            android:id="@+id/custom_search"
+            android:icon="@drawable/worker"
+            android:title="Custom Search" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_sign_out_user"
+                android:title="LOG OUT" />
+        </menu>
+    </item>
+
+</menu>

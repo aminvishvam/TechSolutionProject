@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871392042880",
+    "project_id": "techsolutionfirebase",
+    "storage_bucket": "techsolutionfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871392042880:android:6f467b4a43d1f8f04aeb65",
+        "android_client_info": {
+          "package_name": "com.example.techsolutionproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871392042880-lhg7786prntov7irbci4sph9k7iph5bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.techsolutionproject",
+            "certificate_hash": "19008fb0ebed7f9527414d7df5774fdfc7cd251e"
+          }
+        },
+        {
+          "client_id": "871392042880-2u7c5e5tl2ocipohepg0ovufhpesn7vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaSSFR7R4U0c-d16yCGIhhbduhAnE4PCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871392042880-2u7c5e5tl2ocipohepg0ovufhpesn7vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
